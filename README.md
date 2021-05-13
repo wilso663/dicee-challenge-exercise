@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/wilso663/dicee-challenge-exercise](https://github.com/wilso663/dicee-challenge-exercise)
-- Live Site URL: [https://app.netlify.com/sites/mystifying-ptolemy-aeb84c](https://app.netlify.com/sites/mystifying-ptolemy-aeb84c)
+- Live Site URL: [https://festive-payne-1cd204.netlify.app/](https://festive-payne-1cd204.netlify.app/)
 
 ## My process
 
